@@ -1,0 +1,28 @@
+{
+  "name": "devhelper",
+  "version": "1.0.0",
+  "description": "微信组相关配套软件",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/net900621/devHelper"
+  },
+  "keywords": [
+    "tools"
+  ],
+  "window": {
+    // "toolbar": false
+  },
+  "author": "yaoyao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/net900621/devHelper/issues"
+  },
+  "homepage": "https://github.com/net900621/devHelper",
+  "dependencies": {
+      "nw": "0.12.3"
+  }
+}
